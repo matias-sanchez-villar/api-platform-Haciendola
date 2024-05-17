@@ -48,7 +48,4 @@ Para compilar el código TypeScript a JavaScript y ejecutar la API en producció
 
 ¡Las contribuciones son bienvenidas! Si tienes alguna sugerencia, por favor, crea una nueva issue o envía un pull request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia ISC.
 
